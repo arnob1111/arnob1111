@@ -57,5 +57,4 @@
 ---
 
 ### 🎨 Profile Theme  
-You can pick a dynamic profile theme with animations:  
 [![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=arnob1111&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
