@@ -12,7 +12,7 @@
 - ⚡ **Fun fact:** I live in five dimensions 24/4  
 
 ---
-<p align="left"> <a href="https://www.leetcode.com/arnob1111" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" /> </a> <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks"  /> </a> <a href="https://linkedin.com/in/arnob-bokshi-1b88a2323/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"  /> </a> </p>
+<p align="center"> <a href="https://www.leetcode.com/arnob1111" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" /> </a> <a href="https://auth.geeksforgeeks.org/user/ararno47m4" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" width="40" /> </a> <a href="https://linkedin.com/in/arnob-bokshi-1b88a2323/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" /> </a> </p>
 ---
 
 ### 💻 Languages and Tools  
