@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnob Bokshi</h1>
 <h3 align="center">Competitive Programmer | Software Developer | Enthusiastic Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnob1111&label=Profile%20views&color=0e75b6&style=flat" alt="arnob1111" />
-</p>
-
 ---
 
 ### 🌟 About Me  
@@ -16,9 +12,11 @@
 - ⚡ **Fun fact:** I live in five dimensions 24/4  
 
 ---
-
-### 🌐 Connect with Me  
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnob1111&label=Profile%20views&color=0e75b6&style=flat" alt="arnob1111" />
+</p>
+### 🌐 Connect with Me  
+<p align="left">
   <a href="https://www.leetcode.com/arnob1111" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" />
   </a>
