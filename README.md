@@ -9,7 +9,7 @@
 - 🌱 **Learning:** Next.js and other backend tools  
 - 💬 **Ask me about:** Data Structures & Algorithms and modern frontend technologies  
 - 📫 **Reach me at:** **ararnob1415@gmail.com**  
-- ⚡ **Fun fact:** I live in five dimensions 24/4  
+- ⚡ **Fun fact:** I live in 5D 🤣
 
 
 
